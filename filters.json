@@ -1,0 +1,24 @@
+{
+  "products": [
+    "Product 1",
+    "Product 2",
+    "All"
+  ],
+  "license_types": [
+    "All",
+    "Invoice",
+    "Maintenance Renewal"
+  ],
+  "regions": [
+    "All",
+    "Europe",
+    "North America",
+    "Asia Pacific"
+  ],
+  "comparison_types": [
+    "Current",
+    "Previous",
+    "This Q, previous year",
+    "Older"
+  ]
+}

@@ -1,0 +1,141 @@
+year,quarter,period,metric,value,product,license_type
+2012,Q1,2012 Q1,Amount,175557.48,All,All
+2012,Q1,2012 Q1,Transactions,19.04,All,All
+2012,Q1,2012 Q1,Active clients,0.92,All,All
+2012,Q1,2012 Q1,Active SAMs,4.3,All,All
+2012,Q1,2012 Q1,Designers,27.63,All,All
+2012,Q1,2012 Q1,Admins,42.89,All,All
+2012,Q1,2012 Q1,Servers,3.61,All,All
+2012,Q2,2012 Q2,Amount,179976.9,All,All
+2012,Q2,2012 Q2,Transactions,20.33,All,All
+2012,Q2,2012 Q2,Active clients,1.07,All,All
+2012,Q2,2012 Q2,Active SAMs,5.29,All,All
+2012,Q2,2012 Q2,Designers,31.34,All,All
+2012,Q2,2012 Q2,Admins,44.76,All,All
+2012,Q2,2012 Q2,Servers,4.12,All,All
+2012,Q3,2012 Q3,Amount,222680.58,All,All
+2012,Q3,2012 Q3,Transactions,28.35,All,All
+2012,Q3,2012 Q3,Active clients,0.88,All,All
+2012,Q3,2012 Q3,Active SAMs,4.98,All,All
+2012,Q3,2012 Q3,Designers,26.12,All,All
+2012,Q3,2012 Q3,Admins,53.91,All,All
+2012,Q3,2012 Q3,Servers,5.4,All,All
+2012,Q4,2012 Q4,Amount,213244.19,All,All
+2012,Q4,2012 Q4,Transactions,29.78,All,All
+2012,Q4,2012 Q4,Active clients,1.22,All,All
+2012,Q4,2012 Q4,Active SAMs,5.58,All,All
+2012,Q4,2012 Q4,Designers,40.02,All,All
+2012,Q4,2012 Q4,Admins,58.62,All,All
+2012,Q4,2012 Q4,Servers,5.48,All,All
+2013,Q1,2013 Q1,Amount,240805.74,All,All
+2013,Q1,2013 Q1,Transactions,31.8,All,All
+2013,Q1,2013 Q1,Active clients,1.08,All,All
+2013,Q1,2013 Q1,Active SAMs,5.61,All,All
+2013,Q1,2013 Q1,Designers,41.0,All,All
+2013,Q1,2013 Q1,Admins,62.18,All,All
+2013,Q1,2013 Q1,Servers,5.84,All,All
+2013,Q2,2013 Q2,Amount,267402.55,All,All
+2013,Q2,2013 Q2,Transactions,29.47,All,All
+2013,Q2,2013 Q2,Active clients,1.22,All,All
+2013,Q2,2013 Q2,Active SAMs,6.33,All,All
+2013,Q2,2013 Q2,Designers,40.96,All,All
+2013,Q2,2013 Q2,Admins,61.12,All,All
+2013,Q2,2013 Q2,Servers,6.09,All,All
+2013,Q3,2013 Q3,Amount,243963.42,All,All
+2013,Q3,2013 Q3,Transactions,36.38,All,All
+2013,Q3,2013 Q3,Active clients,1.29,All,All
+2013,Q3,2013 Q3,Active SAMs,7.85,All,All
+2013,Q3,2013 Q3,Designers,46.53,All,All
+2013,Q3,2013 Q3,Admins,60.99,All,All
+2013,Q3,2013 Q3,Servers,6.45,All,All
+2013,Q4,2013 Q4,Amount,353032.96,All,All
+2013,Q4,2013 Q4,Transactions,38.4,All,All
+2013,Q4,2013 Q4,Active clients,1.49,All,All
+2013,Q4,2013 Q4,Active SAMs,9.5,All,All
+2013,Q4,2013 Q4,Designers,51.47,All,All
+2013,Q4,2013 Q4,Admins,83.31,All,All
+2013,Q4,2013 Q4,Servers,9.12,All,All
+2014,Q1,2014 Q1,Amount,334228.22,All,All
+2014,Q1,2014 Q1,Transactions,34.7,All,All
+2014,Q1,2014 Q1,Active clients,1.34,All,All
+2014,Q1,2014 Q1,Active SAMs,7.49,All,All
+2014,Q1,2014 Q1,Designers,44.85,All,All
+2014,Q1,2014 Q1,Admins,75.74,All,All
+2014,Q1,2014 Q1,Servers,8.18,All,All
+2014,Q2,2014 Q2,Amount,359787.2,All,All
+2014,Q2,2014 Q2,Transactions,48.96,All,All
+2014,Q2,2014 Q2,Active clients,1.5,All,All
+2014,Q2,2014 Q2,Active SAMs,8.3,All,All
+2014,Q2,2014 Q2,Designers,48.83,All,All
+2014,Q2,2014 Q2,Admins,94.78,All,All
+2014,Q2,2014 Q2,Servers,7.91,All,All
+2014,Q3,2014 Q3,Amount,326542.56,All,All
+2014,Q3,2014 Q3,Transactions,44.31,All,All
+2014,Q3,2014 Q3,Active clients,1.76,All,All
+2014,Q3,2014 Q3,Active SAMs,8.4,All,All
+2014,Q3,2014 Q3,Designers,49.95,All,All
+2014,Q3,2014 Q3,Admins,101.43,All,All
+2014,Q3,2014 Q3,Servers,8.85,All,All
+2014,Q4,2014 Q4,Amount,478830.84,All,All
+2014,Q4,2014 Q4,Transactions,54.82,All,All
+2014,Q4,2014 Q4,Active clients,1.87,All,All
+2014,Q4,2014 Q4,Active SAMs,12.42,All,All
+2014,Q4,2014 Q4,Designers,71.33,All,All
+2014,Q4,2014 Q4,Admins,123.2,All,All
+2014,Q4,2014 Q4,Servers,12.18,All,All
+2015,Q1,2015 Q1,Amount,413123.66,All,Invoice
+2015,Q1,2015 Q1,Transactions,45.44,All,Maintenance Renewal
+2015,Q1,2015 Q1,Active clients,1.71,All,Maintenance Renewal
+2015,Q1,2015 Q1,Active SAMs,10.48,All,Invoice
+2015,Q1,2015 Q1,Designers,54.06,All,Maintenance Renewal
+2015,Q1,2015 Q1,Admins,86.91,All,Maintenance Renewal
+2015,Q1,2015 Q1,Servers,8.75,All,All
+2015,Q2,2015 Q2,Amount,475347.63,All,All
+2015,Q2,2015 Q2,Transactions,54.79,All,Maintenance Renewal
+2015,Q2,2015 Q2,Active clients,1.87,All,Maintenance Renewal
+2015,Q2,2015 Q2,Active SAMs,9.56,All,Invoice
+2015,Q2,2015 Q2,Designers,64.19,All,All
+2015,Q2,2015 Q2,Admins,90.74,All,Maintenance Renewal
+2015,Q2,2015 Q2,Servers,9.06,All,All
+2015,Q3,2015 Q3,Amount,436936.08,Product 1,Invoice
+2015,Q3,2015 Q3,Transactions,62.6,Product 1,Invoice
+2015,Q3,2015 Q3,Active clients,1.92,Product 1,All
+2015,Q3,2015 Q3,Active SAMs,12.19,Product 2,Invoice
+2015,Q3,2015 Q3,Designers,74.74,Product 1,All
+2015,Q3,2015 Q3,Admins,113.12,Product 1,Maintenance Renewal
+2015,Q3,2015 Q3,Servers,11.52,Product 2,Maintenance Renewal
+2015,Q4,2015 Q4,Amount,481154.66,Product 2,Invoice
+2015,Q4,2015 Q4,Transactions,61.36,Product 1,All
+2015,Q4,2015 Q4,Active clients,2.76,Product 2,Maintenance Renewal
+2015,Q4,2015 Q4,Active SAMs,14.9,Product 1,Invoice
+2015,Q4,2015 Q4,Designers,78.21,Product 1,Invoice
+2015,Q4,2015 Q4,Admins,133.49,Product 2,Invoice
+2015,Q4,2015 Q4,Servers,14.92,Product 1,Invoice
+2016,Q1,2016 Q1,Amount,424699.29,All,Invoice
+2016,Q1,2016 Q1,Transactions,54.23,All,All
+2016,Q1,2016 Q1,Active clients,2.34,All,All
+2016,Q1,2016 Q1,Active SAMs,12.65,All,All
+2016,Q1,2016 Q1,Designers,66.88,All,All
+2016,Q1,2016 Q1,Admins,121.01,All,Maintenance Renewal
+2016,Q1,2016 Q1,Servers,12.48,All,Invoice
+2016,Q2,2016 Q2,Amount,559049.43,All,Invoice
+2016,Q2,2016 Q2,Transactions,57.39,All,Invoice
+2016,Q2,2016 Q2,Active clients,2.65,All,Invoice
+2016,Q2,2016 Q2,Active SAMs,11.51,All,All
+2016,Q2,2016 Q2,Designers,67.67,All,Maintenance Renewal
+2016,Q2,2016 Q2,Admins,112.52,All,All
+2016,Q2,2016 Q2,Servers,13.66,All,All
+2016,Q3,2016 Q3,Amount,518210.97,Product 1,Invoice
+2016,Q3,2016 Q3,Transactions,67.62,Product 2,Invoice
+2016,Q3,2016 Q3,Active clients,2.21,Product 1,All
+2016,Q3,2016 Q3,Active SAMs,14.87,Product 1,All
+2016,Q3,2016 Q3,Designers,76.64,Product 2,All
+2016,Q3,2016 Q3,Admins,110.88,Product 1,All
+2016,Q3,2016 Q3,Servers,14.58,Product 1,Maintenance Renewal
+2016,Q4,2016 Q4,Amount,639445.79,Product 1,Maintenance Renewal
+2016,Q4,2016 Q4,Transactions,69.28,Product 2,Maintenance Renewal
+2016,Q4,2016 Q4,Active clients,3.49,Product 1,Maintenance Renewal
+2016,Q4,2016 Q4,Active SAMs,14.24,Product 1,All
+2016,Q4,2016 Q4,Designers,82.45,Product 2,All
+2016,Q4,2016 Q4,Admins,167.68,Product 1,Invoice
+2016,Q4,2016 Q4,Servers,17.83,Product 1,Maintenance Renewal
